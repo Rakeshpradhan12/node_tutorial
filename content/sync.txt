@@ -1,0 +1,1 @@
+we have write this is first file. second text file. inside the file using sync method appending this text this is first file.appending this text this is first file.
